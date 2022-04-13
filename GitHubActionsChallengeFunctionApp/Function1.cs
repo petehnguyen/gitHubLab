@@ -34,3 +34,5 @@ namespace GitHubActionsChallengeFunctionApp
     }
 }
 //comment to test functionality of CI/CD 
+//PR test
+//PR test on staging branch
